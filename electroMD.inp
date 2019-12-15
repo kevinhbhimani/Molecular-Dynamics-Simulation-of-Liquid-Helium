@@ -1,0 +1,10 @@
+10.22d0 !epsilon/k_B
+2.556d0 !sigma 
+256     !num of helium atoms
+0.145d0 !liquid density in g/cm^3
+10.0d0   !Temperature
+10000   !equilibrium time step
+10000   !sample time step
+0.002d0 !time step size
+2.5d0   !Cutoff radius
+
